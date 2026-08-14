@@ -28,11 +28,11 @@ Url Download :
 - https://raw.githubusercontent.com/ion-tv/iontv/main/ion-tv-1.1.8.apk
 
 
-12 Agustus 2026 versi : 1.1.9
+14 Agustus 2026 versi : 1.1.9
 - Menambahkan panduan visual remote TV khusus tv / stb
 - Memperbaiki System Streaming atau kendala selama memutar video
 - Mempebaiki kendala navigasi channel ketika pindah pindah channel mode full screen
 - Memisahkan fungsi Android 6 pure khusus android 7+
 Url Download :
-12 Agustus 2026
+  14 Agustus 2026
 - https://raw.githubusercontent.com/ion-tv/iontv/main/ion-tv-1.1.9.apk
